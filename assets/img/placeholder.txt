@@ -1,0 +1,37 @@
+IMAGE PLACEHOLDERS
+==================
+
+Replace these files with real images before launch.
+
+hero.jpg
+  Purpose:  Hero section background or split image
+  Ratio:    4:5 portrait (recommended 800×1000px or 900×1125px)
+  Direction: Woman in a calm, reflective setting — writing, thinking,
+             in a warm interior space. Muted, editorial tones.
+
+founder.jpg
+  Purpose:  Michelle Mah founder portrait
+  Ratio:    3:4 portrait (recommended 600×800px)
+  Direction: Professional but warm. Natural light preferred.
+             Not a corporate headshot — something grounded and human.
+
+post-1.jpg through post-6.jpg
+  Purpose:  Article card thumbnails
+  Ratio:    16:9 landscape (recommended 800×450px)
+  Direction: Editorial, quiet confidence. Women in workspaces,
+             reading, coaching settings, movement, quiet reflection.
+             Avoid cheesy stock poses.
+
+about-image.jpg
+  Purpose:  About page image
+  Ratio:    4:5 portrait or 1:1 square
+
+Image treatment notes:
+  - Prefer warm, muted tones over bright/saturated
+  - Keep backgrounds soft — cream, sage, natural wood, linen
+  - Avoid heavy filters or over-processed looks
+
+Free image sources:
+  - Unsplash.com (search: "woman coaching", "woman writing", "woman workspace")
+  - Pexels.com
+  - StockSnap.io

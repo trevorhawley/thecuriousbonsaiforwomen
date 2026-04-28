@@ -854,6 +854,17 @@ p + p { margin-top: 1rem; }
   margin-block: 2.5rem;
 }
 
+.post-content a:not(.post-back) {
+  color: var(--sage-dark);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: color var(--transition);
+}
+.post-content a:not(.post-back):hover {
+  color: var(--text-dark);
+}
+
 .post-back {
   display: inline-flex;
   align-items: center;
